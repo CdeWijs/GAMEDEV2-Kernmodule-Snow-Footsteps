@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SnowNoise : MonoBehaviour {
+public class SnowFall : MonoBehaviour {
 
     public Shader snowFallShader;
     [Range(0.001f, 0.1f)]
