@@ -2403,7 +2403,7 @@ MonoBehaviour:
   wheels:
   - {fileID: 1670375170}
   - {fileID: 1247457440}
-  brushSize: 0.4
+  brushSize: 0.35
   brushStrength: 1
 --- !u!1 &525114017
 GameObject:
@@ -3444,7 +3444,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   snowFallShader: {fileID: 4800000, guid: 118de165611fe41438a5739a44f5e92b, type: 3}
-  flakeAmount: 0.0075
+  flakeAmount: 0.01
   flakeOpacity: 0.1
 --- !u!1 &1635350997
 GameObject:
