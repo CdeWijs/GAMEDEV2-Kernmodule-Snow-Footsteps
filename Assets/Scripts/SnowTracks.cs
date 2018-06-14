@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class WheelTracks : MonoBehaviour {
+public class SnowTracks: MonoBehaviour {
 
     public Shader drawShader;
     public GameObject terrain;
